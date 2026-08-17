@@ -34,8 +34,8 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 # Awesome AutoDL Libraies
 
 * [NNI](https://github.com/microsoft/nni) ⚠️ Archived
-* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,053 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
-* [Determined](https://github.com/determined-ai/determined) ⭐ 3,233 | 🐛 108 | 🌐 Go | 📅 2025-03-20
+* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,052 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
+* [Determined](https://github.com/determined-ai/determined) ⭐ 3,234 | 🐛 108 | 🌐 Go | 📅 2025-03-20
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) ⭐ 2,541 | 🐛 75 | 🌐 Python | 📅 2024-04-09
 * [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) ⭐ 1,581 | 🐛 15 | 🌐 Python | 📅 2022-04-24
 * [NASLib](https://github.com/automl/NASLib) ⭐ 595 | 🐛 33 | 🌐 Python | 📅 2024-11-11
@@ -277,4 +277,4 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
