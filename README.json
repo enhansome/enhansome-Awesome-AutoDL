@@ -15,7 +15,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14363
+            "stars": 14362
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-09-11T21:32:19Z",
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10052
+            "stars": 10051
           }
         },
         {
@@ -113,7 +113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:44:36.534Z",
+    "last_updated": "2026-08-23T11:45:04.328Z",
     "original_repository": "D-X-Y/Awesome-AutoDL",
     "original_repository_id": 153077001,
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
