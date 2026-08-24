@@ -60,7 +60,7 @@
             "last_commit": "2024-04-09T06:17:08Z",
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -113,7 +113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:45:04.328Z",
+    "last_updated": "2026-08-24T11:53:36.410Z",
     "original_repository": "D-X-Y/Awesome-AutoDL",
     "original_repository_id": 153077001,
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
