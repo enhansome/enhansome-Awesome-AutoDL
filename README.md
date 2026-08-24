@@ -1,6 +1,6 @@
 <font size=6><center><big><b> Awesome AutoDL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-A curated list of automated deep learning related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,180 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15.
+A curated list of automated deep learning related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15.
 
 Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pulls) ⭐ 2,341 | 🐛 2 | 🌐 Python | 📅 2022-09-26 or [open an issue](https://github.com/D-X-Y/Awesome-AutoDL/issues) ⭐ 2,341 | 🐛 2 | 🌐 Python | 📅 2022-09-26 to add papers.
 
@@ -34,7 +34,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 # Awesome AutoDL Libraies
 
 * [NNI](https://github.com/microsoft/nni) ⚠️ Archived
-* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,051 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
+* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,052 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
 * [Determined](https://github.com/determined-ai/determined) ⭐ 3,235 | 🐛 108 | 🌐 Go | 📅 2025-03-20
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) ⭐ 2,541 | 🐛 75 | 🌐 Python | 📅 2024-04-09
 * [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) ⭐ 1,581 | 🐛 15 | 🌐 Python | 📅 2022-04-24
