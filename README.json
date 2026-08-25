@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "RandAugment: Practical Automated Data Augmentation with a Reduced Search Space",
-              "description": "NeurIPS GitHub",
+              "description": "NeurIPS  GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -492,7 +492,7 @@
             {
               "node_type": "item",
               "title": "A Study on Encodings for Neural Architecture Search",
-              "description": "NeurIPS GitHub",
+              "description": "NeurIPS  GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -837,7 +837,7 @@
             {
               "node_type": "item",
               "title": "AtomNAS: Fine-Grained End-to-End Neural Architecture Search",
-              "description": "ICLR GitHub",
+              "description": "ICLR  GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1078,12 +1078,12 @@
                 "last_commit": "2022-09-26T01:35:49Z",
                 "owner": "D-X-Y",
                 "repo": "Awesome-AutoDL",
-                "stars": 2341
+                "stars": 2342
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "negrinho/deep_architect",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:15.145Z",
+    "last_updated": "2026-08-25T05:59:07.920Z",
     "original_repository": "D-X-Y/Awesome-AutoDL",
     "original_repository_id": 153077001,
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
