@@ -1258,7 +1258,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77649
               }
             },
             {
@@ -1385,7 +1385,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77649
               }
             },
             {
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:07.920Z",
+    "last_updated": "2026-08-25T11:53:52.052Z",
     "original_repository": "D-X-Y/Awesome-AutoDL",
     "original_repository_id": 153077001,
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
