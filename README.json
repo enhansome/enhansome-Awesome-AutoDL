@@ -15,7 +15,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14362
+            "stars": 14361
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-09-11T21:32:19Z",
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10052
+            "stars": 10051
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-03-20T19:09:46Z",
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3235
+            "stars": 3236
           }
         },
         {
@@ -314,7 +314,7 @@
                 "last_commit": "2021-12-29T08:19:42Z",
                 "owner": "researchmm",
                 "repo": "LightTrack",
-                "stars": 474
+                "stars": 475
               }
             },
             {
@@ -1255,10 +1255,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77649
+                "stars": 77652
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2023-06-02T18:55:09Z",
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17465
+                "stars": 17464
               }
             },
             {
@@ -1382,10 +1382,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77649
+                "stars": 77652
               }
             },
             {
@@ -1597,7 +1597,7 @@
             "last_commit": "2022-09-22T05:24:53Z",
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1341
+            "stars": 1342
           }
         },
         {
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:53:52.052Z",
+    "last_updated": "2026-08-26T11:55:45.838Z",
     "original_repository": "D-X-Y/Awesome-AutoDL",
     "original_repository_id": 153077001,
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
