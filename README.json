@@ -15,7 +15,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14361
+            "stars": 14360
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-09-11T21:32:19Z",
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10051
+            "stars": 10052
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2025-10-31T05:34:11Z",
             "owner": "D-X-Y",
             "repo": "NAS-Bench-201",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -876,7 +876,7 @@
                 "last_commit": "2023-12-14T04:44:52Z",
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1955
+                "stars": 1956
               }
             },
             {
@@ -1255,10 +1255,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -1382,10 +1382,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -1597,7 +1597,7 @@
             "last_commit": "2022-09-22T05:24:53Z",
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -1635,9 +1635,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:55:45.838Z",
-    "original_repository": "D-X-Y/Awesome-AutoDL",
-    "original_repository_id": 153077001,
+    "last_updated": "2026-08-27T11:21:44.427Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 153077001,
+      "language": "Python",
+      "last_commit": "2022-09-26T01:35:49Z",
+      "owner": "D-X-Y",
+      "repo": "Awesome-AutoDL",
+      "stars": 2342
+    },
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoDL",
     "enhanced_repository_description": null,
