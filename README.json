@@ -1255,10 +1255,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-27T18:32:19Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77655
               }
             },
             {
@@ -1382,10 +1382,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-27T18:32:19Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77655
               }
             },
             {
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:44.427Z",
+    "last_updated": "2026-08-27T21:04:52.727Z",
     "original_repository_info": {
       "archived": false,
       "id": 153077001,
