@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+            "homepage": "https://nni.readthedocs.io",
             "id": 135673451,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-03T10:55:10Z",
+            "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14360
+            "stars": 14361,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "data-science",
+              "deep-learning",
+              "deep-neural-network",
+              "distributed",
+              "feature-engineering",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "mlops",
+              "model-compression",
+              "nas",
+              "neural-architecture-search",
+              "neural-network",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+            "homepage": "http://epistasislab.github.io/tpot/",
             "id": 45495679,
             "language": "Jupyter Notebook",
+            "license": "LGPL-3.0",
             "last_commit": "2025-09-11T21:32:19Z",
+            "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10051
+            "stars": 10051,
+            "topics": [
+              "adsp",
+              "ag066833",
+              "aiml",
+              "alzheimer",
+              "alzheimers",
+              "automated-machine-learning",
+              "automation",
+              "automl",
+              "data-science",
+              "feature-engineering",
+              "gradient-boosting",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "model-selection",
+              "nia",
+              "parameter-tuning",
+              "python",
+              "random-forest",
+              "scikit-learn",
+              "u01ag066833"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -42,12 +94,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",
+            "homepage": "https://determined.ai",
             "id": 253846879,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-20T19:09:46Z",
+            "open_issues": 108,
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3237
+            "stars": 3237,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "distributed-training",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "keras",
+              "kubernetes",
+              "machine-learning",
+              "ml-infrastructure",
+              "ml-platform",
+              "mlops",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -58,12 +130,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic architecture search and hyperparameter optimization for PyTorch",
+            "homepage": null,
             "id": 159791040,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-09T06:17:08Z",
+            "open_issues": 75,
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2541
+            "stars": 2541,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "pytorch",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -74,12 +156,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated deep learning algorithms implemented in PyTorch.",
+            "homepage": null,
             "id": 168538768,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-24T22:18:16Z",
+            "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581
+            "stars": 1581,
+            "topics": [
+              "autodl",
+              "automl",
+              "nas",
+              "neural-architecture-search",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -90,12 +183,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers.",
+            "homepage": null,
             "id": 185628775,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-11T15:56:07Z",
+            "open_issues": 33,
             "owner": "automl",
             "repo": "NASLib",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "automl",
+              "nas",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -106,12 +208,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aw_nas: A Modularized and Extensible NAS Framework",
+            "homepage": null,
             "id": 185360477,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-25T05:02:47Z",
+            "open_issues": 14,
             "owner": "walkerning",
             "repo": "aw_nas",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "auto-ml",
+              "deep-neural-networks",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         }
@@ -128,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NASBench: A Neural Architecture Search Dataset and Benchmark",
+            "homepage": null,
             "id": 162748370,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-01T06:38:25Z",
+            "open_issues": 24,
             "owner": "google-research",
             "repo": "nasbench",
-            "stars": 720
+            "stars": 720,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -144,12 +260,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NAS-Bench-201 API and Instruction",
+            "homepage": null,
             "id": 89270920,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-31T05:34:11Z",
+            "open_issues": 0,
             "owner": "D-X-Y",
             "repo": "NAS-Bench-201",
-            "stars": 645
+            "stars": 645,
+            "topics": [
+              "automl",
+              "dataset",
+              "nas",
+              "nas-bench-201",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -160,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 286518161,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-03T13:26:16Z",
+            "open_issues": 3,
             "owner": "automl",
             "repo": "nasbench301",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -176,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 229250393,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-05T21:13:24Z",
+            "open_issues": 1,
             "owner": "automl",
             "repo": "nasbench-1shot1",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -192,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TPAMI 2021: NATS-Bench: Benchmarking NAS Algorithms for Architecture Topology and Size",
+            "homepage": null,
             "id": 303378056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-06T16:42:01Z",
+            "open_issues": 8,
             "owner": "D-X-Y",
             "repo": "NATS-Bench",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -208,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2021] HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark",
+            "homepage": null,
             "id": 332317492,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-18T15:56:29Z",
+            "open_issues": 2,
             "owner": "GATECH-EIC",
             "repo": "HW-NAS-Bench",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -224,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 268791157,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-07T11:29:08Z",
+            "open_issues": 26,
             "owner": "fmsnew",
             "repo": "nas-bench-nlp-release",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -240,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 383562395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-13T06:48:23Z",
+            "open_issues": 2,
             "owner": "automl",
             "repo": "nas-bench-x11",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         }
@@ -264,12 +421,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2021 Oral] \"CATE: Computation-aware Neural Architecture Encoding with Transformers\" by Shen Yan, Kaiqiang Song, Fei Liu, Mi Zhang",
+                "homepage": null,
                 "id": 375186426,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-23T15:03:04Z",
+                "open_issues": 1,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "CATE",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "automl",
+                  "neural-architecture-search",
+                  "representation-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -280,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021] Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator",
+                "homepage": null,
                 "id": 346974219,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-19T10:16:51Z",
+                "open_issues": 4,
                 "owner": "eric8607242",
                 "repo": "SGNAS",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -296,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 333896678,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-21T23:35:53Z",
+                "open_issues": 3,
                 "owner": "idstcv",
                 "repo": "ZenNAS",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -312,12 +489,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -328,12 +518,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search",
+                "homepage": null,
                 "id": 352858185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-29T08:19:42Z",
+                "open_issues": 24,
                 "owner": "researchmm",
                 "repo": "LightTrack",
-                "stars": 476
+                "stars": 476,
+                "topics": [
+                  "cvpr2021",
+                  "efficient",
+                  "nas"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -344,12 +543,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 352862248,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-11T13:36:32Z",
+                "open_issues": 1,
                 "owner": "researchmm",
                 "repo": "NEAS",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "nas"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -360,12 +566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"DARTS-: Robustly Stepping out of Performance Collapse Without Indicators\"",
+                "homepage": null,
                 "id": 329781303,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-15T05:28:02Z",
+                "open_issues": 4,
                 "owner": "Meituan-AutoML",
                 "repo": "DARTS-",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -376,12 +587,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2021] \"Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective\" by Wuyang Chen, Xinyu Gong, Zhangyang Wang",
+                "homepage": null,
                 "id": 329090518,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-30T07:48:50Z",
+                "open_issues": 2,
                 "owner": "VITA-Group",
                 "repo": "TENAS",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "darts-space",
+                  "linear-region",
+                  "nas-bench-201",
+                  "neural-architecture-search",
+                  "ntk"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -392,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our ICLR'2021 paper \"DrNAS: Dirichlet Neural Architecture Search\"",
+                "homepage": null,
                 "id": 270426291,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-12T01:41:09Z",
+                "open_issues": 2,
                 "owner": "xiangning-chen",
                 "repo": "DrNAS",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -408,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2021 Outstanding Paper] Rethinking Architecture Selection in Differentiable NAS",
+                "homepage": null,
                 "id": 341435527,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-05T01:34:59Z",
+                "open_issues": 7,
                 "owner": "ruocwang",
                 "repo": "darts-pt",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -424,12 +656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supplementary Data for Evolving Reinforcement Learning Algorithms",
+                "homepage": null,
                 "id": 348094003,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-03-15T19:20:02Z",
+                "open_issues": 1,
                 "owner": "jcoreyes",
                 "repo": "evolvingrl",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -440,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile vision models and code",
+                "homepage": null,
                 "id": 164916735,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T00:06:03Z",
+                "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "mobile-vision",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -463,12 +705,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -479,12 +734,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] \"Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?\" by Shen Yan, Yu Zheng, Wei Ao, Xiao Zeng, Mi Zhang ",
+                "homepage": null,
                 "id": 306211456,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-19T23:43:59Z",
+                "open_issues": 0,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "arch2vec",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "automl",
+                  "neural-architecture-search",
+                  "representation-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -495,12 +760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference models and tools for Cloud TPUs.",
+                "homepage": "https://cloud.google.com/tpu/",
                 "id": 96946693,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
+                "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278
+                "stars": 5278,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -511,12 +781,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"STNs\" and \"Delta-STNs\".",
+                "homepage": "https://arxiv.org/pdf/2010.13514.pdf",
                 "id": 306252038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-20T22:51:39Z",
+                "open_issues": 0,
                 "owner": "pomonam",
                 "repo": "Self-Tuning-Networks",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "bilevel-optimization",
+                  "deep-learning",
+                  "hyperparameter-optimization",
+                  "neurips-2020",
+                  "pytorch",
+                  "self-tuning-network"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -527,12 +809,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Naszilla is a Python library for neural architecture search (NAS)",
+                "homepage": null,
                 "id": 217753524,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-29T03:08:50Z",
+                "open_issues": 5,
                 "owner": "naszilla",
                 "repo": "naszilla",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "automl",
+                  "bananas",
+                  "cifar10",
+                  "convolutional-networks",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "meta-neural-network",
+                  "nas-algorithms",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -543,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Revisiting Parameter Sharing for Automatic Neural Channel Number Search, NeurIPS 2020",
+                "homepage": null,
                 "id": 303356128,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-15T17:37:04Z",
+                "open_issues": 0,
                 "owner": "haolibai",
                 "repo": "APS-channel-search",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -559,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The release codes of LA-MCTS with its application to Neural Architecture Search. ",
+                "homepage": null,
                 "id": 283664242,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-28T22:50:45Z",
+                "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "LaMCTS",
-                "stars": 483
+                "stars": 483,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -575,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Architecture Search using Deep Neural Network and Monte Carlo Tree Search",
+                "homepage": null,
                 "id": 177706095,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-18T00:46:58Z",
+                "open_issues": 4,
                 "owner": "linnanwang",
                 "repo": "AlphaX-NASBench101",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -591,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FAD: Representation Sharing for Fast Object Detector Search and Beyond",
+                "homepage": "https://arxiv.org/abs/2007.12075",
                 "id": 306318851,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-23T09:13:39Z",
+                "open_issues": 2,
                 "owner": "msight-tech",
                 "repo": "research-fad",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -607,12 +926,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search (ECCV2020)",
+                "homepage": "https://arxiv.org/abs/2008.05314",
                 "id": 277265301,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-23T11:03:14Z",
+                "open_issues": 3,
                 "owner": "AberHu",
                 "repo": "TF-NAS",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "imagenet",
+                  "latency-constrained",
+                  "nas",
+                  "neural-architecture-search",
+                  "search-freedoms",
+                  "searched-architectures",
+                  "tf-nas"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -623,12 +955,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search",
+                "homepage": null,
                 "id": 224416107,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-03T21:35:14Z",
+                "open_issues": 12,
                 "owner": "xiaomi-automl",
                 "repo": "FairDARTS",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "automl",
+                  "darts",
+                  "fairdarts",
+                  "nas"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -639,12 +981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our ICML'2020 paper \"Stabilizing Differentiable Architecture Search via Perturbation-based Regularization\"",
+                "homepage": null,
                 "id": 240133635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-12T03:06:04Z",
+                "open_issues": 1,
                 "owner": "xiangning-chen",
                 "repo": "SmoothDARTS",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -655,12 +1002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 247536987,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-26T12:48:28Z",
+                "open_issues": 6,
                 "owner": "ggjy",
                 "repo": "HitDet.pytorch",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -671,12 +1023,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Codebase for Image Classification Research, written in PyTorch.",
+                "homepage": null,
                 "id": 191256013,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T15:45:40Z",
+                "open_issues": 27,
                 "owner": "facebookresearch",
                 "repo": "pycls",
-                "stars": 2161
+                "stars": 2161,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -687,12 +1044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"UNAS: Differentiable Architecture Search Meets Reinforcement Learning\", CVPR 2020 Oral",
+                "homepage": "https://arxiv.org/abs/1912.07651",
                 "id": 246127475,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-03T21:32:07Z",
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "unas",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -703,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation. Published in CVPR 2020",
+                "homepage": null,
                 "id": 248116177,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-17T10:06:59Z",
+                "open_issues": 0,
                 "owner": "chaoyanghe",
                 "repo": "MiLeNAS",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -719,12 +1086,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 242724171,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-25T01:02:51Z",
+                "open_issues": 3,
                 "owner": "MAC-AutoML",
                 "repo": "rethinking_performance_estimation_in_NAS",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -735,12 +1107,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2020] APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+                "homepage": "https://hanlab.mit.edu",
                 "id": 224575297,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-16T03:37:21Z",
+                "open_issues": 9,
                 "owner": "mit-han-lab",
                 "repo": "apq",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "compression",
+                  "joint-optimization",
+                  "nas",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -751,12 +1133,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SGAS: Sequential Greedy Architecture Search (CVPR'2020) https://www.deepgcns.org/auto/sgas",
+                "homepage": null,
                 "id": 224666979,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-05T14:47:02Z",
+                "open_issues": 2,
                 "owner": "lightaime",
                 "repo": "sgas",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "3d-point-clouds",
+                  "automl",
+                  "bioinformatics",
+                  "computer-vision",
+                  "deep-gcns",
+                  "geometric-deep-learning",
+                  "graph-neural-networks",
+                  "neural-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -767,12 +1163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile vision models and code",
+                "homepage": null,
                 "id": 164916735,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T00:06:03Z",
+                "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "mobile-vision",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -783,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2020] Code for paper \"AdversarialNAS: Adversarial Neural Architecture Search for GANs\".",
+                "homepage": null,
                 "id": 247257132,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-03T21:29:24Z",
+                "open_issues": 2,
                 "owner": "chengaopro",
                 "repo": "AdversarialNAS",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -799,12 +1205,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2020] When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks",
+                "homepage": "http://www.mit.edu/~yuzhe/robnets.html",
                 "id": 245825023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-21T02:52:21Z",
+                "open_issues": 10,
                 "owner": "gmh14",
                 "repo": "RobNets",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning-architectures",
+                  "neural-architecture-search",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -815,12 +1232,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2020) Block-wisely Supervised Neural Architecture Search with Knowledge Distillation",
+                "homepage": null,
                 "id": 224792076,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-23T05:22:58Z",
+                "open_issues": 5,
                 "owner": "changlin31",
                 "repo": "DNA",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "auto-ml",
+                  "deep-learning",
+                  "image-classification",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -831,12 +1260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NSAS code for CVPR review",
+                "homepage": null,
                 "id": 222625224,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-06-02T01:46:00Z",
+                "open_issues": 1,
                 "owner": "miaozhang0525",
                 "repo": "NSAS_FOR_CVPR",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -847,12 +1281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Densely Connected Search Space for More Flexible Neural Architecture Search (CVPR2020)",
+                "homepage": "https://arxiv.org/abs/1906.09607",
                 "id": 193097051,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-04T02:28:45Z",
+                "open_issues": 5,
                 "owner": "JaminFong",
                 "repo": "DenseNAS",
-                "stars": 292
+                "stars": 292,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -863,12 +1302,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated deep learning algorithms implemented in PyTorch.",
+                "homepage": null,
                 "id": 168538768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T22:18:16Z",
+                "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1581
+                "stars": 1581,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -879,12 +1329,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for Understanding Architectures Learnt by Cell-based Neural Architecture Search",
+                "homepage": "https://arxiv.org/abs/1909.09569",
                 "id": 194660033,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-06T07:28:34Z",
+                "open_issues": 0,
                 "owner": "shuyao95",
                 "repo": "Understanding-NAS",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "iclr",
+                  "iclr2020",
+                  "nas"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -895,12 +1354,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2020]: 'AtomNAS: Fine-Grained End-to-End Neural Architecture Search'",
+                "homepage": null,
                 "id": 211988439,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-08T03:12:08Z",
+                "open_issues": 3,
                 "owner": "meijieru",
                 "repo": "AtomNAS",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "distributed",
+                  "imagenet",
+                  "network-pruning",
+                  "neural-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -911,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Neural Network Adaptation via Parameter Remapping and Architecture Search (ICLR2020 & TPAMI)",
+                "homepage": null,
                 "id": 230030255,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-12T03:41:38Z",
+                "open_issues": 3,
                 "owner": "JaminFong",
                 "repo": "FNA",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -927,12 +1401,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment",
+                "homepage": "https://ofa.mit.edu/",
                 "id": 231969325,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-14T04:44:52Z",
+                "open_issues": 60,
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1956
+                "stars": 1956,
+                "topics": [
+                  "acceleration",
+                  "automl",
+                  "edge-ai",
+                  "efficient-model",
+                  "nas",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -943,12 +1429,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PC-DARTS:Partial Channel Connections for Memory-Efficient Differentiable Architecture Search",
+                "homepage": null,
                 "id": 196307320,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-03T03:06:26Z",
+                "open_issues": 13,
                 "owner": "yuhuixu1993",
                 "repo": "PC-DARTS",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "differentiable-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -959,12 +1452,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2020] NAS evaluation is frustratingly hard",
+                "homepage": "https://arxiv.org/abs/1912.12522",
                 "id": 204482264,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-24T14:36:32Z",
+                "open_issues": 1,
                 "owner": "antoyang",
                 "repo": "NAS-Benchmark",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "automl",
+                  "benchmark",
+                  "differentiable-architecture-search",
+                  "evaluation",
+                  "nas",
+                  "nas-benchmark",
+                  "nas-evaluation",
+                  "neural-architecture-search",
+                  "random-sampling"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -975,12 +1483,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2020] \"FasterSeg: Searching for Faster Real-time Semantic Segmentation\" by Wuyang Chen, Xinyu Gong, Xianming Liu, Qian Zhang, Yuan Li, Zhangyang Wang",
+                "homepage": null,
                 "id": 224768705,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-27T01:11:18Z",
+                "open_issues": 14,
                 "owner": "VITA-Group",
                 "repo": "FasterSeg",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "cityscapes",
+                  "latency",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "semantic-segmentation",
+                  "tensorrt"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -991,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of ICLR2020 paper 'Towards Fast Adaptation of Neural Architectures with Meta Learning'",
+                "homepage": null,
                 "id": 239519559,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-15T13:46:54Z",
+                "open_issues": 2,
                 "owner": "dongzelian",
                 "repo": "T-NAS",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1007,12 +1532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, Accurate and Lightweight Super-Resolution models",
+                "homepage": null,
                 "id": 166790842,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-21T22:27:01Z",
+                "open_issues": 6,
                 "owner": "xiaomi-automl",
                 "repo": "FALSR",
-                "stars": 681
+                "stars": 681,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1030,12 +1560,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated deep learning algorithms implemented in PyTorch.",
+                "homepage": null,
                 "id": 168538768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T22:18:16Z",
+                "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1581
+                "stars": 1581,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1046,12 +1587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for our paper \"Progressive Differentiable Architecture Search:Bridging the Depth Gap between Search and Evaluation\"",
+                "homepage": null,
                 "id": 184030958,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-02-18T08:13:22Z",
+                "open_issues": 15,
                 "owner": "chenxin061",
                 "repo": "pdarts",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1062,12 +1608,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multinomial Distribution Learning for Effective Neural Architecture Search",
+                "homepage": null,
                 "id": 187307086,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-24T02:15:13Z",
+                "open_issues": 8,
                 "owner": "tanglang96",
                 "repo": "MDENAS",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1078,12 +1629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multinomial Distribution Learning for Effective Neural Architecture Search",
+                "homepage": null,
                 "id": 187307086,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-24T02:15:13Z",
+                "open_issues": 8,
                 "owner": "tanglang96",
                 "repo": "MDENAS",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1094,12 +1650,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated deep learning algorithms implemented in PyTorch.",
+                "homepage": null,
                 "id": 168538768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T22:18:16Z",
+                "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1581
+                "stars": 1581,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1110,12 +1677,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2019] \"AutoGAN: Neural Architecture Search for Generative Adversarial Networks\" by Xinyu Gong, Shiyu Chang, Yifan Jiang and Zhangyang Wang",
+                "homepage": null,
                 "id": 200117271,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-25T01:49:39Z",
+                "open_issues": 4,
                 "owner": "VITA-Group",
                 "repo": "AutoGAN",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "autogan",
+                  "cifar10",
+                  "gan",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1126,12 +1704,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discovering Neural Wirings (https://arxiv.org/abs/1906.00586)",
+                "homepage": null,
                 "id": 194745223,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-05T23:29:00Z",
+                "open_issues": 9,
                 "owner": "allenai",
                 "repo": "dnw",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1142,12 +1729,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
+                "homepage": null,
                 "id": 153077001,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-26T01:35:49Z",
+                "open_issues": 2,
                 "owner": "D-X-Y",
                 "repo": "Awesome-AutoDL",
-                "stars": 2342
+                "stars": 2342,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "awesome",
+                  "deep-learning",
+                  "hyper-parameter-optimization",
+                  "nas",
+                  "neural-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1158,12 +1758,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general, modular, and programmable architecture search framework",
+                "homepage": "https://deep-architect.readthedocs.io/en/latest/",
                 "id": 199943153,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-24T23:41:07Z",
+                "open_issues": 4,
                 "owner": "negrinho",
                 "repo": "deep_architect",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "architecture-search",
+                  "auto-ml",
+                  "automatic-machine-learning",
+                  "colab",
+                  "colab-notebook",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "hyperparameter-optimization",
+                  "machine-learning",
+                  "neural-architecture-search",
+                  "neural-networks",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1174,12 +1793,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated deep learning algorithms implemented in PyTorch.",
+                "homepage": null,
                 "id": 168538768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T22:18:16Z",
+                "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1581
+                "stars": 1581,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1190,12 +1820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 217649273,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-11T11:25:10Z",
+                "open_issues": 2,
                 "owner": "megvii-model",
                 "repo": "DetNAS",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1206,12 +1841,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for the neural architecture search methods contained in the paper Efficient Forward Neural Architecture Search",
+                "homepage": null,
                 "id": 180651701,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-12T18:22:32Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "petridishnn",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "automl",
+                  "cifar-100",
+                  "cifar10",
+                  "deep-learning",
+                  "deep-learning-algorithms",
+                  "image-classification",
+                  "imagenet",
+                  "neural-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1222,12 +1871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 217732825,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-06T09:37:19Z",
+                "open_issues": 1,
                 "owner": "NivNayman",
                 "repo": "XNAS",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1238,12 +1892,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differentiable architecture search for convolutional and recurrent networks",
+                "homepage": "https://arxiv.org/abs/1806.09055",
                 "id": 138547383,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-03T02:21:40Z",
+                "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3998
+                "stars": 3998,
+                "topics": [
+                  "automl",
+                  "convolutional-networks",
+                  "deep-learning",
+                  "image-classification",
+                  "language-modeling",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1254,12 +1922,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+                "homepage": "https://hanlab.mit.edu/projects/proxylessNAS/",
                 "id": 159995467,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-08-30T23:51:21Z",
+                "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1447
+                "stars": 1447,
+                "topics": [
+                  "acceleration",
+                  "automl",
+                  "efficient-model",
+                  "hardware-aware",
+                  "on-device-ai",
+                  "specialization"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1270,12 +1950,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learnable Embedding Space for Efficient Neural Architecture Compression",
+                "homepage": null,
                 "id": 183426659,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-25T14:05:15Z",
+                "open_issues": 1,
                 "owner": "Shengcao-Cao",
                 "repo": "ESNAC",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "bayesian-optimization",
+                  "model-compression",
+                  "neural-architecture-search"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1286,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code accompanying our CVPR 2019 paper: \"NetTailor: Tuning the architecture, not just the weights.\"",
+                "homepage": "https://pedro-morgado.github.io/nettailor/",
                 "id": 178129393,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-14T17:14:02Z",
+                "open_issues": 5,
                 "owner": "pedro-morgado",
                 "repo": "nettailor",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1302,12 +1996,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated deep learning algorithms implemented in PyTorch.",
+                "homepage": null,
                 "id": 168538768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T22:18:16Z",
+                "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1581
+                "stars": 1581,
+                "topics": [
+                  "autodl",
+                  "automl",
+                  "nas",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1318,12 +2023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partial Order Pruning: for  Best Speed/Accuracy Trade-off in Neural Architecture Search",
+                "homepage": null,
                 "id": 174256492,
                 "language": "Cuda",
+                "license": null,
                 "last_commit": "2020-09-23T09:03:00Z",
+                "open_issues": 1,
                 "owner": "lixincn2015",
                 "repo": "Partial-Order-Pruning",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1334,12 +2044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1350,12 +2065,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile.",
+                "homepage": null,
                 "id": 143511465,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-15T07:57:08Z",
+                "open_issues": 4,
                 "owner": "AnjieCheng",
                 "repo": "MnasNet-PyTorch",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "architecture-search",
+                  "mnasnet",
+                  "mobilenetv2",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1366,12 +2091,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+                "homepage": null,
                 "id": 94460704,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-02T18:55:09Z",
+                "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17465
+                "stars": 17465,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "machine-translation",
+                  "reinforcement-learning",
+                  "tpu"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1382,12 +2118,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NASBench: A Neural Architecture Search Dataset and Benchmark",
+                "homepage": null,
                 "id": 162748370,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-01T06:38:25Z",
+                "open_issues": 24,
                 "owner": "google-research",
                 "repo": "nasbench",
-                "stars": 720
+                "stars": 720,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1398,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "On Network Design Spaces for Visual Recognition",
+                "homepage": null,
                 "id": 202615328,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-04-25T18:47:41Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "nds",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1421,12 +2167,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic architecture search and hyperparameter optimization for PyTorch",
+                "homepage": null,
                 "id": 159791040,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-09T06:17:08Z",
+                "open_issues": 75,
                 "owner": "automl",
                 "repo": "Auto-PyTorch",
-                "stars": 2541
+                "stars": 2541,
+                "topics": [
+                  "automl",
+                  "deep-learning",
+                  "pytorch",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1437,12 +2193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the official Pytorch reimplementation of the paper \"NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications\".",
+                "homepage": null,
                 "id": 209408669,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:45:16Z",
+                "open_issues": 6,
                 "owner": "denru01",
                 "repo": "netadapt",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1453,12 +2214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Architecture Search by Network Transformation, in AAAI 2018",
+                "homepage": null,
                 "id": 92140655,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-04T02:27:52Z",
+                "open_issues": 5,
                 "owner": "han-cai",
                 "repo": "EAS",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1469,12 +2235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1485,12 +2256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow Code for paper \"Efficient Neural Architecture Search via Parameter Sharing\"",
+                "homepage": "https://arxiv.org/abs/1802.03268",
                 "id": 122676880,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-18T14:02:10Z",
+                "open_issues": 84,
                 "owner": "melodyguan",
                 "repo": "enas",
-                "stars": 1578
+                "stars": 1578,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1501,12 +2277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Path-Level Network Transformation for Efficient Architecture Search, in ICML 2018.",
+                "homepage": null,
                 "id": 135870245,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-12T03:15:44Z",
+                "open_issues": 5,
                 "owner": "han-cai",
                 "repo": "PathLevel-EAS",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1517,12 +2298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental technique for efficiently exploring neural architectures.",
+                "homepage": null,
                 "id": 100662109,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-08-19T08:53:24Z",
+                "open_issues": 4,
                 "owner": "ajbrock",
                 "repo": "SMASH",
-                "stars": 491
+                "stars": 491,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1533,12 +2319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Architecture Optimization",
+                "homepage": null,
                 "id": 154782689,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-11T06:26:01Z",
+                "open_issues": 11,
                 "owner": "renqianluo",
                 "repo": "NAO",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1549,12 +2340,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Architecture Search with Bayesian Optimisation and Optimal Transport",
+                "homepage": null,
                 "id": 136734134,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-01-28T20:45:09Z",
+                "open_issues": 5,
                 "owner": "kirthevasank",
                 "repo": "nasbot",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "bayesian-optimization",
+                  "gaussian-processes",
+                  "neural-architecture-search",
+                  "optimal-transport"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1572,12 +2373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 72878913,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-18T16:09:54Z",
+                "open_issues": 2,
                 "owner": "bowenbaker",
                 "repo": "metaqnn",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1588,12 +2394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for the paper \"Hyperparameter Optimization: A Spectral Approach\" by Elad Hazan, Adam Klivans, Yang Yuan.",
+                "homepage": "https://arxiv.org/abs/1706.00764",
                 "id": 95695696,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-12-20T21:50:54Z",
+                "open_issues": 2,
                 "owner": "callowbird",
                 "repo": "Harmonica",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1611,12 +2422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "predicting learning curves in python",
+                "homepage": null,
                 "id": 34619267,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-05-08T12:02:37Z",
+                "open_issues": 1,
                 "owner": "automl",
                 "repo": "pylearningcurvepredictor",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1634,12 +2450,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Population Based Training (in PyTorch with sqlite3). Status: Unsupported",
+                "homepage": null,
                 "id": 114514545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-31T19:12:37Z",
+                "open_issues": 8,
                 "owner": "MattKleinsmith",
                 "repo": "pbt",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "deep-learning",
+                  "deepmind",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "hyperparameters",
+                  "pbt",
+                  "population-based-training"
+                ]
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             },
@@ -1650,12 +2480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 473140860,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-31T12:06:56Z",
+                "open_issues": 0,
                 "owner": "yuezuegu",
                 "repo": "UBoostNAS",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
             }
@@ -1677,12 +2512,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autoML framework & toolkit for machine learning on graphs.",
+            "homepage": "http://mn.cs.tsinghua.edu.cn/AutoGL/",
             "id": 317248195,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T02:46:56Z",
+            "open_issues": 22,
             "owner": "THUMNLab",
             "repo": "AutoGL",
-            "stars": 1140
+            "stars": 1140,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "graph-neural-networks",
+              "hyper-parameter-optimization",
+              "machine-learning",
+              "neural-architecture-search",
+              "pytorch",
+              "pytorch-geometric"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -1693,12 +2542,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)",
+            "homepage": null,
             "id": 281841206,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-09-22T05:24:53Z",
+            "open_issues": 0,
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1342
+            "stars": 1342,
+            "topics": [
+              "artificial-neural-networks",
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "deep-learning",
+              "genetic-algorithm",
+              "grid-search",
+              "hpo",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machine-learning-optimization",
+              "optimization",
+              "particle-swarm-optimization",
+              "python-examples",
+              "python-samples",
+              "random-forest",
+              "random-search",
+              "tuning-parameters"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -1709,12 +2584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoML: A Survey of State-of-the-Art",
+            "homepage": "https://marsggbo.github.io/automl_a_survey_of_state_of_the_art/",
             "id": 163363829,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-02T02:31:24Z",
+            "open_issues": 2,
             "owner": "marsggbo",
             "repo": "automl_a_survey_of_state_of_the_art",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         },
@@ -1725,12 +2605,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online/continual learning",
+            "homepage": null,
             "id": 534477565,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-14T16:05:11Z",
+            "open_issues": 1,
             "owner": "Western-OC2-Lab",
             "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
-            "stars": 631
+            "stars": 631,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "concept-drift",
+              "data-preprocessing",
+              "data-stream-processing",
+              "data-streams",
+              "deep-learning",
+              "feature-engineering",
+              "hyperparameter-tuning",
+              "intrusion-detection-system",
+              "iot",
+              "iot-data-analytics",
+              "machine-learning",
+              "model-selection",
+              "python-examples",
+              "python-samples"
+            ]
           },
           "first_seen": "2026-08-28T21:28:39.779Z"
         }
@@ -1739,15 +2641,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:28:39.779Z",
+    "last_updated": "2026-08-29T04:26:56.477Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
+      "homepage": null,
       "id": 153077001,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2022-09-26T01:35:49Z",
+      "open_issues": 2,
       "owner": "D-X-Y",
       "repo": "Awesome-AutoDL",
-      "stars": 2342
+      "stars": 2342,
+      "topics": [
+        "autodl",
+        "automl",
+        "awesome",
+        "deep-learning",
+        "hyper-parameter-optimization",
+        "nas",
+        "neural-architecture-search"
+      ]
     },
     "original_repository_sha": "9fb9fe201d6c2b325ee7df7c12656fe9e2971ce4",
     "enhanced_repository": "enhansome/enhansome-Awesome-AutoDL",
