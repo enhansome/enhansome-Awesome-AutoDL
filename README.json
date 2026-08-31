@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14361,
+            "stars": 14360,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -498,7 +498,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -714,7 +714,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -1410,7 +1410,7 @@
                 "open_issues": 60,
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1956,
+                "stars": 1955,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17465,
+                "stars": 17466,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2244,7 +2244,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:24:29.854Z",
+    "last_updated": "2026-08-31T18:03:56.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
