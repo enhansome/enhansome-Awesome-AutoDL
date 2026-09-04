@@ -61,7 +61,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10051,
+            "stars": 10050,
             "topics": [
               "adsp",
               "ag066833",
@@ -139,7 +139,7 @@
             "open_issues": 75,
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2541,
+            "stars": 2542,
             "topics": [
               "automl",
               "deep-learning",
@@ -1931,7 +1931,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2049,8 +2049,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:30:36Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-03T23:11:37Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77661,
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17470,
+                "stars": 17469,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2176,7 +2176,7 @@
                 "open_issues": 75,
                 "owner": "automl",
                 "repo": "Auto-PyTorch",
-                "stars": 2541,
+                "stars": 2542,
                 "topics": [
                   "automl",
                   "deep-learning",
@@ -2240,8 +2240,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:30:36Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-03T23:11:37Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77661,
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:05:36.143Z",
+    "last_updated": "2026-09-04T15:02:21.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
