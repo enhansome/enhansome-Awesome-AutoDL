@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14360,
+            "stars": 14359,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -498,7 +498,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1841,
+                "stars": 1842,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -714,7 +714,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1841,
+                "stars": 1842,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77662,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77662,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2551,7 +2551,7 @@
             "open_issues": 0,
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1342,
+            "stars": 1343,
             "topics": [
               "artificial-neural-networks",
               "automated-machine-learning",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:57:38.269Z",
+    "last_updated": "2026-09-06T14:19:05.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
