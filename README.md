@@ -1,6 +1,6 @@
 <font size=6><center><big><b> Awesome AutoDL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-A curated list of automated deep learning related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,185 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15.
+A curated list of automated deep learning related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,185 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15.
 
 Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pulls) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26 or [open an issue](https://github.com/D-X-Y/Awesome-AutoDL/issues) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26 to add papers.
 
@@ -34,7 +34,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 # Awesome AutoDL Libraies
 
 * [NNI](https://github.com/microsoft/nni) ⚠️ Archived
-* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,050 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
+* [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,051 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11
 * [Determined](https://github.com/determined-ai/determined) ⭐ 3,239 | 🐛 108 | 🌐 Go | 📅 2025-03-20
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) ⭐ 2,542 | 🐛 75 | 🌐 Python | 📅 2024-04-09
 * [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) ⭐ 1,581 | 🐛 15 | 🌐 Python | 📅 2022-04-24
@@ -90,7 +90,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 | [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://papers.nips.cc/paper/2020/file/d072677d210ac4c03ba046120f0802ec-Paper.pdf)                                                                             | NeurIPS |    -    |                           [GitHub](https://github.com/microsoft/Cream) ⭐ 1,842 \| 🐛 34 \| 🌐 Python \| 📅 2024-07-25                          |
 | [PyGlove: Symbolic Programming for Automated Machine Learning](https://proceedings.neurips.cc/paper/2020/file/012a91467f210472fab4e11359bbfef6-Paper.pdf)                                                                                                | NeurIPS | library |                                                                        -                                                                       |
 | [Does Unsupervised Architecture Representation Learning Help Neural Architecture Search](https://arxiv.org/abs/2006.06936)                                                                                                                               | NeurIPS |    PD   |                         [GitHub](https://github.com/MSU-MLSys-Lab/arch2vec) ⭐ 49 \| 🐛 0 \| 🌐 Python \| 📅 2021-01-19                         |
-| [RandAugment: Practical Automated Data Augmentation with a Reduced Search Space](https://arxiv.org/abs/1909.13719)                                                                                                                                       | NeurIPS |         | [GitHub](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,277 \| 🐛 319 \| 🌐 Jupyter Notebook \| 📅 2026-06-22 |
+| [RandAugment: Practical Automated Data Augmentation with a Reduced Search Space](https://arxiv.org/abs/1909.13719)                                                                                                                                       | NeurIPS |         | [GitHub](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) ⭐ 5,277 \| 🐛 320 \| 🌐 Jupyter Notebook \| 📅 2026-06-22 |
 | [Delta-STN: Efficient Bilevel Optimization for Neural Networks using Structured Response Jacobians](https://arxiv.org/pdf/2010.13514.pdf)                                                                                                                | NeurIPS |    G    |                      [GitHub](https://github.com/pomonam/Self-Tuning-Networks) ⭐ 51 \| 🐛 0 \| 🌐 Python \| 📅 2021-02-20                      |
 | [A Study on Encodings for Neural Architecture Search](https://arxiv.org/abs/2007.04965)                                                                                                                                                                  | NeurIPS |         |                           [GitHub](https://github.com/naszilla/naszilla) ⭐ 316 \| 🐛 5 \| 🌐 Python \| 📅 2022-12-29                           |
 | [AutoBSS: An Efficient Algorithm for Block Stacking Style Search](https://proceedings.neurips.cc/paper/2020/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)                                                                                             | NeurIPS |         |                                                                                                                                                |
@@ -277,4 +277,4 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
