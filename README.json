@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14359,
+            "stars": 14358,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -477,7 +477,7 @@
                 "open_issues": 3,
                 "owner": "idstcv",
                 "repo": "ZenNAS",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1738,7 +1738,7 @@
                 "open_issues": 2,
                 "owner": "D-X-Y",
                 "repo": "Awesome-AutoDL",
-                "stars": 2342,
+                "stars": 2343,
                 "topics": [
                   "autodl",
                   "automl",
@@ -2049,11 +2049,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
+                "last_commit": "2026-09-09T03:15:30Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17469,
+                "stars": 17471,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2223,7 +2223,7 @@
                 "open_issues": 5,
                 "owner": "han-cai",
                 "repo": "EAS",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2240,11 +2240,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
+                "last_commit": "2026-09-09T03:15:30Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:13:28.955Z",
+    "last_updated": "2026-09-09T15:13:32.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
@@ -2653,7 +2653,7 @@
       "open_issues": 2,
       "owner": "D-X-Y",
       "repo": "Awesome-AutoDL",
-      "stars": 2342,
+      "stars": 2343,
       "topics": [
         "autodl",
         "automl",
