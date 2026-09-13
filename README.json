@@ -1931,7 +1931,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1448,
+                "stars": 1449,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:16:30.837Z",
+    "last_updated": "2026-09-13T14:57:51.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
