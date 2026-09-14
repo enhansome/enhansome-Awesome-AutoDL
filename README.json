@@ -769,7 +769,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5277,
+                "stars": 5278,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1738,7 +1738,7 @@
                 "open_issues": 2,
                 "owner": "D-X-Y",
                 "repo": "Awesome-AutoDL",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1901,7 +1901,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3996,
+                "stars": 3997,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17472,
+                "stars": 17471,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:57:51.300Z",
+    "last_updated": "2026-09-14T17:00:00.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
@@ -2653,7 +2653,7 @@
       "open_issues": 2,
       "owner": "D-X-Y",
       "repo": "Awesome-AutoDL",
-      "stars": 2343,
+      "stars": 2344,
       "topics": [
         "autodl",
         "automl",
