@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14360,
+            "stars": 14361,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -61,7 +61,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10051,
+            "stars": 10050,
             "topics": [
               "adsp",
               "ag066833",
@@ -139,7 +139,7 @@
             "open_issues": 75,
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2541,
+            "stars": 2540,
             "topics": [
               "automl",
               "deep-learning",
@@ -165,7 +165,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "autodl",
               "automl",
@@ -1311,7 +1311,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1569,7 +1569,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1659,7 +1659,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1767,7 +1767,7 @@
                 "open_issues": 4,
                 "owner": "negrinho",
                 "repo": "deep_architect",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "architecture-search",
                   "auto-ml",
@@ -1802,7 +1802,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "autodl",
                   "automl",
@@ -2005,7 +2005,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "autodl",
                   "automl",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 75,
                 "owner": "automl",
                 "repo": "Auto-PyTorch",
-                "stars": 2541,
+                "stars": 2540,
                 "topics": [
                   "automl",
                   "deep-learning",
@@ -2244,7 +2244,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:38:10.938Z",
+    "last_updated": "2026-09-16T15:28:48.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
