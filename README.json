@@ -61,7 +61,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10052,
+            "stars": 10053,
             "topics": [
               "adsp",
               "ag066833",
@@ -165,7 +165,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -217,7 +217,7 @@
             "open_issues": 14,
             "owner": "walkerning",
             "repo": "aw_nas",
-            "stars": 253,
+            "stars": 252,
             "topics": [
               "auto-ml",
               "deep-neural-networks",
@@ -1032,7 +1032,7 @@
                 "open_issues": 27,
                 "owner": "facebookresearch",
                 "repo": "pycls",
-                "stars": 2161,
+                "stars": 2160,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 5,
                 "owner": "JaminFong",
                 "repo": "DenseNAS",
-                "stars": 292,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1311,7 +1311,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1410,7 +1410,7 @@
                 "open_issues": 60,
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1954,
+                "stars": 1953,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -1569,7 +1569,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1596,7 +1596,7 @@
                 "open_issues": 15,
                 "owner": "chenxin061",
                 "repo": "pdarts",
-                "stars": 365,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1802,7 +1802,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "autodl",
                   "automl",
@@ -1901,7 +1901,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3997,
+                "stars": 3996,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -1931,7 +1931,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1448,
+                "stars": 1447,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2005,7 +2005,7 @@
                 "open_issues": 15,
                 "owner": "D-X-Y",
                 "repo": "AutoDL-Projects",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "autodl",
                   "automl",
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17473,
+                "stars": 17475,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2286,7 +2286,7 @@
                 "open_issues": 5,
                 "owner": "han-cai",
                 "repo": "PathLevel-EAS",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:04:26.670Z",
+    "last_updated": "2026-09-19T14:37:14.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
