@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14360,
+            "stars": 14362,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -987,7 +987,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2021-04-12T03:06:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "xiangning-chen",
                 "repo": "SmoothDARTS",
                 "stars": 78,
@@ -1901,7 +1901,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3996,
+                "stars": 3997,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -1931,7 +1931,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2265,7 +2265,7 @@
                 "open_issues": 84,
                 "owner": "melodyguan",
                 "repo": "enas",
-                "stars": 1578,
+                "stars": 1579,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2521,7 +2521,7 @@
             "open_issues": 22,
             "owner": "THUMNLab",
             "repo": "AutoGL",
-            "stars": 1141,
+            "stars": 1142,
             "topics": [
               "automl",
               "deep-learning",
@@ -2614,7 +2614,7 @@
             "open_issues": 1,
             "owner": "Western-OC2-Lab",
             "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:46:38.189Z",
+    "last_updated": "2026-09-21T17:08:42.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
