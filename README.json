@@ -61,7 +61,7 @@
             "open_issues": 311,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10053,
+            "stars": 10054,
             "topics": [
               "adsp",
               "ag066833",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77652,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17473,
+                "stars": 17472,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2244,7 +2244,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77652,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:56:37.953Z",
+    "last_updated": "2026-09-30T16:54:29.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
