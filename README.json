@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14364,
+            "stars": 14366,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1032,7 +1032,7 @@
                 "open_issues": 27,
                 "owner": "facebookresearch",
                 "repo": "pycls",
-                "stars": 2160,
+                "stars": 2161,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2049,7 +2049,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T00:07:29Z",
+                "last_commit": "2026-10-01T16:19:37Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17472,
+                "stars": 17473,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2240,7 +2240,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T00:07:29Z",
+                "last_commit": "2026-10-01T16:19:37Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:54:29.522Z",
+    "last_updated": "2026-10-01T17:26:37.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
