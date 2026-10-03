@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "NNI",
-          "description": null,
+          "description": "microsoft/nni",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "TPOT",
-          "description": null,
+          "description": "EpistasisLab/tpot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Determined",
-          "description": null,
+          "description": "determined-ai/determined",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "Auto-PyTorch",
-          "description": null,
+          "description": "automl/Auto-PyTorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -152,7 +152,7 @@
         {
           "node_type": "item",
           "title": "AutoDL-Projects",
-          "description": null,
+          "description": "D-X-Y/AutoDL-Projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -179,7 +179,7 @@
         {
           "node_type": "item",
           "title": "NASLib",
-          "description": null,
+          "description": "automl/NASLib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "aw_nas",
-          "description": null,
+          "description": "walkerning/aw_nas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1410,7 @@
                 "open_issues": 60,
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -1725,7 +1725,7 @@
             {
               "node_type": "item",
               "title": "Other",
-              "description": null,
+              "description": "D-X-Y/Awesome-AutoDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "negrinho/deep_architect",
-              "description": null,
+              "description": "negrinho/deep_architect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2050,10 +2050,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2241,10 +2241,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:45:16.762Z",
+    "last_updated": "2026-10-03T04:24:07.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
