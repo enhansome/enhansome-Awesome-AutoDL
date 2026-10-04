@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14366,
+            "stars": 14368,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -61,7 +61,7 @@
             "open_issues": 311,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10054,
+            "stars": 10055,
             "topics": [
               "adsp",
               "ag066833",
@@ -498,7 +498,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -596,7 +596,7 @@
                 "open_issues": 2,
                 "owner": "VITA-Group",
                 "repo": "TENAS",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "darts-space",
                   "linear-region",
@@ -714,7 +714,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -769,7 +769,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279,
+                "stars": 5280,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1850,7 +1850,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "petridishnn",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "automl",
                   "cifar-100",
@@ -1901,7 +1901,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17473,
+                "stars": 17474,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2244,7 +2244,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2551,7 +2551,7 @@
             "open_issues": 0,
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1349,
+            "stars": 1348,
             "topics": [
               "artificial-neural-networks",
               "automated-machine-learning",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:10:54.431Z",
+    "last_updated": "2026-10-04T15:54:00.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
