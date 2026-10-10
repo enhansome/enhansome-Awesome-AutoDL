@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14367,
+            "stars": 14368,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -2053,7 +2053,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77651,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17476,
+                "stars": 17475,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2244,7 +2244,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77651,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -2551,7 +2551,7 @@
             "open_issues": 0,
             "owner": "LiYangHart",
             "repo": "Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
-            "stars": 1347,
+            "stars": 1346,
             "topics": [
               "artificial-neural-networks",
               "automated-machine-learning",
@@ -2614,7 +2614,7 @@
             "open_issues": 1,
             "owner": "Western-OC2-Lab",
             "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
-            "stars": 629,
+            "stars": 628,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:30:17.707Z",
+    "last_updated": "2026-10-10T16:18:49.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
