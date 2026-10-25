@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14365,
+            "stars": 14366,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -769,7 +769,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5283,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:39.779Z"
@@ -1410,7 +1410,7 @@
                 "open_issues": 60,
                 "owner": "mit-han-lab",
                 "repo": "once-for-all",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17476,
+                "stars": 17478,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:43:38.670Z",
+    "last_updated": "2026-10-25T14:59:56.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
