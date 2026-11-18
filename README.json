@@ -19,7 +19,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14366,
+            "stars": 14368,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -58,7 +58,7 @@
             "language": "Jupyter Notebook",
             "license": "LGPL-3.0",
             "last_commit": "2025-09-11T21:32:19Z",
-            "open_issues": 312,
+            "open_issues": 310,
             "owner": "EpistasisLab",
             "repo": "tpot",
             "stars": 10062,
@@ -1901,7 +1901,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3999,
+                "stars": 4000,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2100,7 +2100,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17471,
+                "stars": 17473,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:57:34.137Z",
+    "last_updated": "2026-11-18T19:28:52.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
